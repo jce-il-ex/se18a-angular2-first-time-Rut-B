@@ -1,5 +1,7 @@
 # Angular 2 create and delpoy for first time
 https://github.com/Rut-B/RutProject
+<ul>
+<li>
 First time creating and deploying angular2 app
 
 ### Getting Started
