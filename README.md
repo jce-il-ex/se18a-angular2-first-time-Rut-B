@@ -1,6 +1,6 @@
 # Angular 2 create and delpoy for first time
-https://github.com/Rut-B/RutProject
-<br/>
+
+
 https://rutproject-912f7.firebaseapp.com/
 
 <ul>
